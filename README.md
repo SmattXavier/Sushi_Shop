@@ -49,17 +49,9 @@ flutter test
 ## 📸 Screenshots
 _Add screenshots here to show how your app looks._
 
-## 🤖 AI/ML Integration (If applicable)
-- Describe what AI/ML models you used
-- What the model predicts
-- Any data sources
 
 ## 🧱 Architecture
-Provide a short explanation of the design pattern (e.g., MVC, MVVM, Clean Architecture).
-
-## 🔐 Security & Permissions
-List required permissions, such as:
-  
+This is based on the MVVM architecture.
 
 ## 📦 Deployment
 Instructions for releasing on Android or iOS.
@@ -71,9 +63,8 @@ Instructions for releasing on Android or iOS.
 ## 🤝 Contributing
 Guidelines for contributing if open-source.
 
-## 📄 License
-Include your license, e.g., MIT, Apache 2.0.
+
 
 ## 👨‍💻 Author
-**Your Name**  
+**Smatt Abraham O**  
 Brief description or portfolio link
